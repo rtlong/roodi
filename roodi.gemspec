@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name = "roodi"
-  s.version = "2.0.1.20111013125706"
+  s.version = "2.1.0.20111013125706"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Marty Andrews"]
